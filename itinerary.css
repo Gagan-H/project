@@ -1,0 +1,86 @@
+
+.sm
+{
+    font-size:10px;
+}
+
+
+.bi-diagram-3-fill
+{
+    margin-right: 12px;
+}
+
+
+@media screen and (max-width:575px) {
+    .card{
+        font-size: 10px;
+    }
+    .form-control
+    {
+        font-size: 10px;
+    }
+    .btn{
+        font-size: 10px;
+    }
+    .input-group-text
+    {
+        font-size: 10px;
+    }
+    #mobilenumberinput
+    {
+     margin-left: 30px;
+    }
+    
+    
+}
+
+@media screen and (min-width:576px) {
+    .card{
+        font-size: 10px;
+    }
+    .form-control{
+        font-size: 10px;
+    }
+
+    #cabin-weight
+    {
+        margin-top: 50px;
+    }
+    #cabin-baggage
+    {
+        margin-top: 50px;
+    }
+    #mobilenumberinput
+    {
+        margin-left: 15px;
+    }
+    .btn{
+        font-size: 10px;
+    }
+    
+}
+
+
+@media screen and (min-width:768px) {
+    .card
+    {
+        font-size: 12px;
+    }
+    .form-control
+    {
+        font-size: 12px;
+    }
+    .btn{
+        font-size: 12px;
+    }
+    #mobilenumberinput
+    {
+        margin-left: 5px;
+    }
+ 
+}
+
+
+
+
+
