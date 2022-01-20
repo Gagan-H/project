@@ -1,0 +1,298 @@
+
+.card{
+    border-radius: 5px;
+}
+.sm
+{
+    font-size:10px;
+}
+
+
+#duration
+{
+    margin-top: 5px;
+}
+#refundablebadge
+{
+    margin-top: 5px;
+}
+#newbadge
+{
+    margin-left: 2px;
+}
+.accordion
+{
+    box-shadow: black 2px 2px 20px;
+}
+.accordion-body
+{
+    background-color: #001d3d;
+    color: #e5e5e5;
+    font-weight:  400;
+}
+.accordion-button
+{
+    background-color: #fdc921;
+    color:black ; 
+    font-style: italic;
+    
+}
+.box{
+    border:2px solid black;
+    width:fit-content
+}
+
+.bi-diagram-3-fill
+{
+    margin-right: 12px;
+}
+
+
+
+                                                                    /*extrasmall*/
+
+@media screen and (min-width:290px){
+    .weight
+    {
+        margin-left:50px;
+    }
+    #cabin-weight
+    {
+        margin-top: 15px;
+    }
+    #date
+    {
+        margin-left: 15px;
+    }
+    #duration
+    {
+        margin-left: 5px;
+    }
+    .card{
+        font-size: 10px;
+    }
+    .form-control{
+        font-size: 10px;
+    }
+    .btn{
+        font-size: 10px;
+    }
+    .input-group-text
+    {
+        font-size: 10px;
+    }
+  
+    #mobilenumberinput
+    {
+     margin-left: 35px;
+    }
+    .meals
+    {
+        width: 90px;
+    }
+    .laggage
+    {
+        width: 90px;
+    }
+
+    
+}
+@media screen and (min-width:300px) {
+    #cabin-weight
+    {
+        margin-top: 15px;
+    }
+    .weight{
+        margin-left: 80px;
+    }
+   
+}
+
+@media screen and (min-width:350px) {
+    
+    .weight
+    {
+        margin-left:85px;
+    }
+    
+}
+@media screen and (min-width:388px) {
+    #cabin-weight
+    {
+        margin-top: 0px;
+    }
+    .weight{
+        margin-left: 100px;
+    }
+    
+}
+
+@media screen and (min-width:400px) {
+    .weight{
+        margin-left: 110px;
+    }
+    
+}
+@media screen and (min-width:430px) {
+    .weight{
+        margin-left: 120px;
+    }
+    
+    
+    
+}
+@media screen and (min-width:500px) {
+    .weight{
+        margin-left: 135px;
+    }
+    
+}
+@media screen and (min-width:565px) {
+    .weight{
+        margin-left: 165px;
+    }
+    #newbadge
+    {
+        margin-left: 5px;
+    }
+    .info{
+        margin-left:5px;
+    }
+   
+    
+}
+ 
+
+@media screen and (min-width:575px) {
+    .accordion-body{
+        font-size: 10px;
+    }
+    .form-control
+    {
+        font-size: 10px;
+    }
+    
+    .btn{
+        font-size: 10px;
+    }
+    .input-group-text
+    {
+        font-size: 10px;
+    }
+    #mobilenumberinput
+    {
+     margin-left: 30px;
+    }
+    
+}
+                                                                                        /*Small*/
+@media screen and (min-width:576px) {
+    .accordion-body{
+        font-size: 12px;
+    }
+    .form-control{
+        font-size: 11px;
+    }
+    .btn{
+        font-size: 12px;
+    }
+     .weight
+    {
+        margin-left: 0px;
+    }
+    #cabin-weight
+    {
+        margin-top: 30px;
+    }
+    #cabin-baggage
+    {
+        margin-top: 10px;
+    }
+    #mobilenumberinput
+    {
+        margin-left: 35px;
+    }
+    
+    .input-group-text
+    {
+        font-size: 11px;
+    }
+    #duration
+    {
+        margin-left: 35px;
+    }
+    #newbadge
+    {
+        margin-left: 5px;
+    }
+    .info{
+        margin-left: 5px;
+    }
+    .meals{
+        width: 100px;
+    }
+    .laggage{
+        width: 100px;
+    }
+}
+
+                                                                                            /*Medium*/
+@media screen and (min-width:768px) {
+    .accordion-body
+    {
+        font-size: 12px;
+    }
+    .form-control
+    {
+        font-size: 12px;
+    }
+    .btn{
+        font-size: 13px;
+    }
+    #mobilenumberinput
+    {
+        margin-left: 10px;
+    }
+    .input-group-text
+    {
+        font-size: 12px;
+    }
+    #newbadge
+    {
+        margin-left: 5px;
+    }
+    .info{
+        margin-left: 5px;
+    }
+   
+    
+    #cabin-baggage
+    {
+        margin-top: 30px;
+    }
+    
+}
+                                                                                    /*Large*/
+@media screen and (min-width:992px) {
+    
+    
+    #mobilenumberinput
+    {
+        margin-left: 5px;
+    }
+    .meals{
+        width: 150px;
+    }
+    .laggage
+    {
+        width: 150px;
+    }
+
+
+    
+}
+
+
+
+
+
